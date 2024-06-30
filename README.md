@@ -1,1 +1,1 @@
-# Computer-Graphics-and-Image-Processing-Programs
+This repository contains a collection of programs and projects related to computer graphics and image processing. The programs are implemented in various programming languages and cover a range of topics within these fields.
